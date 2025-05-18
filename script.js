@@ -58,17 +58,16 @@ animarCorazones();
 
 // Frases
 const frases = [
-  "Te amo muchísimo❤️",
+    "Te amo muchísimo❤️",
     "Gracias por cada momento juntos💕",
     "Eres el sol que ilumina mis días☀️",
     "Eres mi persona favorita en el mundo💞",
     "Siempre pienso en ti💭",
     "Eres el dueño de mi corazon❤️",
     "Te amo de aqui a la luna a pasitos de huron🌕",
-    "Mon Soleil💛",
     "Ni la galaxia se asemeja al amor que te tengo🌌",
     "Eres lo que no sabia que necesitaba💟",
-    "Eres la razón de mis sonrisas y espero ser tu razón 🥰",
+    "Eres la razón de mis sonrisas y espero ser la razón de las tuyas 🥰",
     "Mi precioso no sabes como aceleras mis latidos cada que te veo ❣️",
     "Quiero ser tu refugio y lugar seguro🤍",
     "Nunca pienses que estas solo, por que me tendras contigo🌟",
